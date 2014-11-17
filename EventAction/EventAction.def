@@ -1,0 +1,6 @@
+; EventAction.def : Declares the module parameters for the DLL.
+
+LIBRARY      "EventAction"
+
+EXPORTS
+    ; Explicit exports can go here
